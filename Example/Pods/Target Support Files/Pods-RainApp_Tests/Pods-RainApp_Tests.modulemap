@@ -1,0 +1,6 @@
+framework module Pods_RainApp_Tests {
+  umbrella header "Pods-RainApp_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}

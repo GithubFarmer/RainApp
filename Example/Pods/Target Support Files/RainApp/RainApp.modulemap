@@ -1,0 +1,6 @@
+framework module RainApp {
+  umbrella header "RainApp-umbrella.h"
+
+  export *
+  module * { export * }
+}

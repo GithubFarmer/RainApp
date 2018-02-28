@@ -1,0 +1,22 @@
+{
+  "name": "RainApp",
+  "version": "0.1.0",
+  "summary": "A short description of RainApp.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/喻永权/RainApp",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "喻永权": "rainy.yu@wwwarehouse.com"
+  },
+  "source": {
+    "git": "https://github.com/喻永权/RainApp.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "RainApp/Classes/**/*"
+}
